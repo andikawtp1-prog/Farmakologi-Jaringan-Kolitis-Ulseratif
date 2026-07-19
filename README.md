@@ -37,11 +37,11 @@ Skor sentralitas MCC mengukur tingkat kepentingan sebuah protein berdasarkan ket
 
 Gambar 3 merepresentasikan konsep inti *network pharmacology* (*Compound-Target-Pathway network*). Visualisasi ini menunjukkan bahwa kelima senyawa bekerja secara saling melengkapi dengan prinsip **multi-target**. Tidak ada senyawa yang hanya mengikat satu protein tunggal. Terlihat jelas bahwa garis-garis koneksi (*edges*) dari berbagai senyawa bermuara dan menumpuk pada gen-gen pengatur sentral (nodes biru), terutama pada **TNF**, yang membuktikan adanya efek farmakologis sinergis antar-senyawa.
 
-![Enrichment Process](enrichment_Process_sim0.8_graph_2.jpg)
+![Enrichment Process](enrichment_Process_sim0.8_graph_2.png)
 
-![Enrichment Function](enrichment_Function_sim0.8_graph_2.jpg)
+![Enrichment Function](enrichment_Function_sim0.8_graph_2.png)
 
-![Enrichment KEGG](enrichment_KEGG_sim0.8_graph%20%282%29_2.jpg)
+![Enrichment KEGG](enrichment_KEGG_sim0.8_graph%20%282%29_2.png)
 
 **Gambar 4. Hasil *enrichment analysis* Gene Ontology (Biological Process, Molecular Function) dan KEGG Pathway terhadap target irisan** *(Berdasarkan grafik FDR dan Gene Count)*
 
