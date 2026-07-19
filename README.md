@@ -3,7 +3,7 @@
 
 Kolitis Ulserativa (UC) merupakan salah satu jenis *Inflammatory Bowel Disease* (IBD) yang ditandai dengan peradangan mukosa usus besar yang kronis. Pengobatan berbasis bahan alam, termasuk pendekatan Pengobatan Tradisional Tiongkok (TCM) seperti penggunaan *Huanglian Jiedu Decoction* (HLJDD), telah menunjukkan potensi besar dalam meredakan inflamasi usus (Liu et al., 2023). Lima senyawa bioaktif, yaitu **Quercetin, Berberine, (R)-Canadine, Wogonin,** dan **Beta-sitosterol**, yang juga ditemukan dalam berbagai herbal obat, diketahui memiliki sifat anti-inflamasi yang kuat. Karena senyawa sekunder umumnya bekerja secara *multi-target*, analisis ini bertujuan untuk memetakan dan mengidentifikasi target utama dari kelima senyawa tersebut serta mekanisme kerjanya terhadap penyakit Kolitis Ulserativa secara komprehensif menggunakan pendekatan *network pharmacology*.
 
-![Diagram Venn](vien.png)
+![Diagram Venn](Screenshot 2026-07-20 010838.png)
 
 **Gambar 1. Irisan gen target Kolitis Ulserativa dan gen target gabungan 5 senyawa aktif**
 
