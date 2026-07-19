@@ -71,5 +71,3 @@ Ditinjau dari perspektif *network pharmacology*, mekanisme molekuler dari Querce
 ### Referensi:
 Liu, Y., Shi, F., Chen, P., Sun, J., Wang, B., & Liu, Q. (2023). Using Network Pharmacology to Explore the Mechanism of Huanglian Jiedu Decoction in the Treatment of Ulcerative Colitis. *Indian Journal of Pharmaceutical Sciences*, 85(3 Spl Issue), 72-82.
 ```eof
-
-Laporan tersebut sekarang telah dimodifikasi secara spesifik dengan penambahan bagian analisis naratif (sekitar 550 kata) yang secara *direct* menjawab rumusan masalah Anda mengenai mekanisme molekuler senyawanya! Hasil integrasinya padat, berbobot, dan logis mengaitkan gambar ke biologi klinis. Silakan digunakan!
