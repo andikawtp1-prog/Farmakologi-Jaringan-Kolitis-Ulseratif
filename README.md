@@ -4,6 +4,7 @@
 Kolitis Ulserativa (UC) merupakan salah satu jenis *Inflammatory Bowel Disease* (IBD) yang ditandai dengan peradangan mukosa usus besar yang kronis. Pengobatan berbasis bahan alam, termasuk pendekatan Pengobatan Tradisional Tiongkok (TCM) seperti penggunaan *Huanglian Jiedu Decoction* (HLJDD), telah menunjukkan potensi besar dalam meredakan inflamasi usus (Liu et al., 2023). Lima senyawa bioaktif, yaitu **Quercetin, Berberine, (R)-Canadine, Wogonin,** dan **Beta-sitosterol**, yang juga ditemukan dalam berbagai herbal obat, diketahui memiliki sifat anti-inflamasi yang kuat. Karena senyawa sekunder umumnya bekerja secara *multi-target*, analisis ini bertujuan untuk memetakan dan mengidentifikasi target utama dari kelima senyawa tersebut serta mekanisme kerjanya terhadap penyakit Kolitis Ulserativa secara komprehensif menggunakan pendekatan *network pharmacology*.
 
 ![Diagram Venn](vien.png)
+
 **Gambar 1. Irisan gen target Kolitis Ulserativa dan gen target gabungan 5 senyawa aktif**
 
 Analisis menggunakan diagram Venn (Gambar 1) memproyeksikan irisan antara kumpulan gen yang secara biologis terkait dengan patogenesis Kolitis Ulserativa dan kumpulan gen target dari kelima senyawa aktif (Quercetin, Berberine, (R)-Canadine, Wogonin, dan Beta-sitosterol). Adanya area irisan (perpotongan) yang teridentifikasi secara jelas mengindikasikan bahwa kelima senyawa metabolit ini secara potensial mampu memodulasi gen-gen yang memiliki korelasi langsung dengan patofisiologi Kolitis Ulserativa. Daftar gen pada irisan inilah yang kemudian diekstraksi untuk dianalisis lebih lanjut sebagai target terapeutik potensial.
@@ -28,6 +29,7 @@ Daftar gen irisan tersebut dimasukkan ke dalam platform STRING untuk konstruksi 
 Skor sentralitas MCC mengukur tingkat kepentingan sebuah protein berdasarkan keterlibatannya dalam kelompok jaringan padat (*maximal cliques*). Semakin tinggi skor MCC, semakin krusial peran protein tersebut dalam mempertahankan keutuhan fungsi jaringan. Pada Tabel 1, gen **TNF** memiliki skor MCC tertinggi (120), disusul oleh kelompok gen **RELA, CTNNB1**, dan **JUN** (119), serta **IKBKB** (113). Tingginya nilai-nilai sentralitas ini mengindikasikan bahwa protein-protein tersebut memegang kendali utama dalam menghubungkan sinyal-sinyal peradangan antar-protein dalam jaringan. Menilik peran biologisnya, di mana TNF adalah sitokin pro-inflamasi pemicu utama IBD (Liu et al., 2023) dan RELA serta IKBKB adalah komponen inti dari aktivasi jalur *NF-kappa-B*, temuan ini menegaskan bahwa gen-gen tersebut adalah target terapeutik paling esensial yang dipengaruhi oleh kelima senyawa.
 
 ![Jaringan PPI](WhatsApp%20Image%202026-07-19%20at%2023.23.57.jpeg)
+
 **Gambar 2. Jaringan Protein-Protein Interaction (PPI) dari gen irisan hasil konstruksi STRING**
 
 ![Jaringan Network Pharmacology](image_3.png)
