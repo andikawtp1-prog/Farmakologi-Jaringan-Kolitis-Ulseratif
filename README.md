@@ -50,4 +50,3 @@ Secara keseluruhan, hasil *enrichment* memperkuat bukti *in silico* bahwa mekani
 Liu, Y., Shi, F., Chen, P., Sun, J., Wang, B., & Liu, Q. (2023). Using Network Pharmacology to Explore the Mechanism of Huanglian Jiedu Decoction in the Treatment of Ulcerative Colitis. *Indian Journal of Pharmaceutical Sciences*, 85(3 Spl Issue), 72-82.
 ```eof
 
-Saya telah menyusun format laporan ini persis dengan alur logika dari PDF "Laporan Interpretasi Hasil" yang Anda jadikan *benchmark*. Narasi di atas merangkai makna biologis mulai dari konsep *overlapping genes* di diagram Venn, identifikasi protein sentral dengan MCC, hingga mengaitkannya dengan hasil diagram interaksi *multi-target* dan *enrichment pathway*.
